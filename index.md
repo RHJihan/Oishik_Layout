@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RHJihan/Oishik_Layout/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RHJihan/Oishik_Layout/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Oishik Layout – ঐষীক লেআউট
+A free Bangla computer keyboard layout
+<p>
+বর্তমানে বাংলা টাইপিংয়ের জন্য বিভিন্ন কিবোর্ড লেআউট (ফিক্সড) প্রচলিত আছে। যেমন: বিজয়, মুনীর, গীতাঞ্জলি, ইন্সক্রিপ্ট, বর্ণ, প্রভাত প্রভৃতি। এগুলোর অধিকাংশই ইউনিকোডের বিভিন্ন দিক বিবেচনা করে উন্নয়নকৃত নয় এবং বেশ পুরোনো। ইন্সক্রিপ্ট মূলত একটি ইউনিফর্ম লেআউট যা বাংলাসহ ভারতের বারোটি ভাষার জন্য ডিজাইন করা হয়। অপরদিকে প্রভাত লেআউটের কিম্যাপিং অনেকটা ফোনেটিক ভিত্তিক।<br>
+  <i>ঐষীক</i> কিবোর্ড লেআউটটি বাংলা ভাষার বিভিন্ন বর্ণের ফ্রিকোয়েন্সি বিবেচনা করে উন্নয়ন করা হয়েছে। এটি বাংলা ভাষার জন্য একটি পূর্ণাঙ্গ মুক্ত কিবোর্ড লেআউট। 
+</p>
+<h2><a href="https://github.com/RHJihan/Oishik_Layout/releases/download/v1.0.3.40/oishik.zip" title="Oishik Keyboard (zipped)">▶&nbsp;Click to Download the keyboard</a></h2>
+  <p>Layout preview:<br></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/KB-Bengali-Oishik.svg" height="100%" width="100%" align="left" alt="oishik"><br><br>
+<p>Otobi Layout by <a href="https://www.facebook.com/RHJihan">Jihan</a>.<br></p>
