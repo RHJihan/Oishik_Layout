@@ -7,4 +7,4 @@ A free Bangla computer keyboard layout
 <h2><a href="https://github.com/RHJihan/Oishik_Layout/releases/download/v1.0.3.40/oishik.zip" title="Oishik Keyboard (zipped)">▶&nbsp;Click to Download the keyboard</a></h2>
   <p>Layout preview:<br></p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/KB-Bengali-Oishik.svg" height="100%" width="100%" align="left" alt="oishik"><br><br>
-<p>Otobi Layout by <a href="https://www.facebook.com/RHJihan">Jihan</a>.<br></p>
+<p>o=Oishik Layout by <a href="https://www.facebook.com/RHJihan">Jihan</a>.<br></p>
